@@ -4,6 +4,14 @@
 - 🌱 I’m currently learning matchine learning and AI
 - 👯 I’m looking to collaborate on any projects involving matchine learning and Android development
 
+- ✌🏾 Looking forward opportunities and collaboration related with other android app development and python developers.
+📫 I'm available to answer your python related questions on any platform.
+💻 Computer Vision engineer
+github visitors
+
+
+Top Langs Anurag's GitHub stats
+
 
 <!--
 **Piexie3/Piexie3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
