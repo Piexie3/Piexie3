@@ -5,12 +5,12 @@
 - 👯 I’m looking to collaborate on any projects involving matchine learning and Android development
 
 - ✌🏾 Looking forward opportunities and collaboration related with other android app development and python developers.
-📫 I'm available to answer your python related questions on any platform.
-💻 Computer Vision engineer
+-📫 I'm available to answer your python related questions on any platform.
+-💻 Computer Vision engineer
+
 github visitors
 
-
-Top Langs Anurag's GitHub stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
