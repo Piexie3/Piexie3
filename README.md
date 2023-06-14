@@ -1,4 +1,9 @@
-### Hi there 👋
+### Software Developer
+
+- 🔭 I’m a ANdroid developer enthusiast working with flutter and jetpack compose
+- 🌱 I’m currently learning matchine learning and AI
+- 👯 I’m looking to collaborate on any projects involving matchine learning and Android development
+
 
 <!--
 **Piexie3/Piexie3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
