@@ -8,9 +8,9 @@
 -📫 I'm available to answer your python related questions on any platform.
 -💻 Computer Vision engineer
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piexie3&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/piexie3/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piexie3&langs_count=8)](https://github.com/piexie3/github-readme-stats)
 
 
 <!--
