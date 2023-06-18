@@ -1,11 +1,11 @@
 ### Software Developer
 
-- 🔭 I’m a ANdroid developer enthusiast working with flutter and jetpack compose
-- 🌱 I’m currently learning matchine learning and AI
+- 🔭 I’m a an android developer enthusiast working with flutter and jetpack compose
+- 🌱 I’m currently learning matchine learning and AI mostly computer visualization with tensorflow
 - 👯 I’m looking to collaborate on any projects involving matchine learning and Android development
 
-- ✌🏾 Looking forward opportunities and collaboration related with other android app development and python developers.
--📫 I'm available to answer your python related questions on any platform.
+- ✌🏾 Looking forward opportunities and collaboration related with other android app development and software development.
+-📫 I'm available to answer your flutter and compose related questions on any platform.
 -💻 Computer Vision engineer
 
 ![Emmanuel Bett GitHub stats](https://github-readme-stats.vercel.app/api?username=piexie3&show_icons=true&theme=transparent)
