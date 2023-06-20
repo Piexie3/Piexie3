@@ -9,8 +9,6 @@
 
 -💻 Computer Vision engineer
 
-![Emmanuel Bett GitHub stats](https://github-readme-stats.vercel.app/api?username=piexie3&show_icons=true&theme=transparent)
-
 [![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piexie3&langs_count=8)](https://github.com/piexie3/github-readme-stats)
 
 [![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Emmanuel_dev2)](https://github.com/piexie3/github-readme-stats)
