@@ -6,6 +6,7 @@
 
 - ✌🏾 Looking forward opportunities and collaboration related with other android app development and software development.
 -📫 I'm available to answer your flutter and compose related questions on any platform.
+
 -💻 Computer Vision engineer
 
 ![Emmanuel Bett GitHub stats](https://github-readme-stats.vercel.app/api?username=piexie3&show_icons=true&theme=transparent)
