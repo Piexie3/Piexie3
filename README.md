@@ -9,9 +9,7 @@
 
 -💻 Computer Vision engineer
 
-[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piexie3&langs_count=8)](https://github.com/piexie3/github-readme-stats)
 
-[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Emmanuel_dev2)](https://github.com/piexie3/github-readme-stats)
 <!--
 **Piexie3/Piexie3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
