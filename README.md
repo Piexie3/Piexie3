@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com">
+  <a href="https://www.linkedin.com/in/emmanuel-bett-418995241?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="https://www.youtube.com">
@@ -33,17 +33,17 @@
 
 <h3 align="left">🛠 Language and tools</h3>
 
-#Frameworks
+##Frameworks
 Flutter framework
 Android Sdk
 
-#databases
+##Databases
 
 Firebase
 SQl database
 MongoDB
 
-#Languages
+##Languages
 - Dart
 - Kotlin
 - Python
