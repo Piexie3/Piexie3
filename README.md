@@ -82,6 +82,17 @@ Languages
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+  <table>
+  
+  <tr>
+    <td>
+       <img width="400px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=godwins3&theme=vision-friendly-dark&count_private=true"  />
+     </td> 
+   </tr>
+   
+  
+</table>
+  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piexie3&theme=vision-friendly-dark&count_private=true)](https://github.com/piexie3/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piexie3&theme=vision-friendly-dark&count_private=true)](https://github.com/piexie3/github-readme-stats)
