@@ -27,26 +27,30 @@
 
 ###
 
-<p align="left">I'm Android developer from Nairobi, Kenya<br><br>- 🔭 I’m working as an Android developer best in Kotlin(Jetpack Compose) and Flutter (dart)<br>- 📚 I'm currently learning Machine Learning<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Android developer from Nairobi, Kenya<br><br>- 🔭 I’m working as an Android developer best in Kotlin(Jetpack Compose) and Flutter (dart)<br>- 📚 I'm currently learning Machine Learning<br>- ⚡ In my free time I take a walk,listen to music</p>
 
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
 
-##Frameworks
-Flutter framework
-Android Sdk
+Frameworks
+- Flutter
+- Android Sdk
+- Laravel
+- Flask
 
-##Databases
-
-Firebase
-SQl database
-MongoDB
-
-##Languages
+Databases
+- Firebase
+- SQL
+- SQLite
+- MongoDB
+- appwrite
+  
+Languages
 - Dart
 - Kotlin
 - Python
+- Php
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
