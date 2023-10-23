@@ -14,6 +14,7 @@
   <a href="https://twitter.com/emmanuel_dev2">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
   </a>
+  ![github](https://img.shields.io/github/followers/piexie3?style=plastic)
 </div>
 
 
@@ -81,16 +82,6 @@ Languages
 
 ###
 
-<div align="start">
-  <img src="https://streak-stats.demolab.com?user=piexie3&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="top-rignt">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piexie3&theme=vision-friendly-dark&count_private=true)](https://github.com/piexie3/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piexie3&theme=vision-friendly-dark&count_private=true)](https://github.com/piexie3/github-readme-stats)
 
