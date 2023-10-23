@@ -17,8 +17,6 @@
   
 </div>
 
-![github](https://img.shields.io/github/followers/piexie3?style=plastic)
-
 ###
 
 <h1 align="center">hey there 👋</h1>
@@ -53,6 +51,8 @@ Languages
 - Kotlin
 - Python
 - Php
+
+![github](https://img.shields.io/github/followers/piexie3?style=plastic)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
