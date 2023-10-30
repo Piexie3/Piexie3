@@ -35,13 +35,11 @@
 
 Frameworks |Databases| Languages
 | :--- | ---: | :---:
-
-
-- Flutter     | - Firebase| - Dart
-- Android Sdk| - SQL| - Kotlin
-- Laravel| - SQLite| - Python
-- Flask| - MongoDB| - Php
-      | - appwrite | 
+Flutter| - Firebase| - Dart
+Android Sdk| - SQL| - Kotlin
+Laravel| - SQLite| - Python
+Flask| - MongoDB| - Php
+   --   | - appwrite | 
 
 
 
