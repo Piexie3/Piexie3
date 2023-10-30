@@ -33,24 +33,20 @@
 
 <h3 align="left">🛠 Language and tools</h3>
 
-Frameworks
-- Flutter
-- Android Sdk
-- Laravel
-- Flask
+Frameworks |Databases| Languages
+| :--- | ---: | :---:
 
-Databases
-- Firebase
-- SQL
-- SQLite
-- MongoDB
-- appwrite
-  
-Languages
-- Dart
-- Kotlin
-- Python
-- Php
+
+- Flutter     | - Firebase| - Dart
+- Android Sdk| - SQL| - Kotlin
+- Laravel| - SQLite| - Python
+- Flask| - MongoDB| - Php
+      | - appwrite | 
+
+
+
+
+
 
 ![github](https://img.shields.io/github/followers/piexie3?style=plastic)
 
