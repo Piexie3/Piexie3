@@ -17,9 +17,6 @@
   
 </div>
 
-###
-
-<h1 align="center">hey there 👋</h1>
 
 ###
 
@@ -27,8 +24,7 @@
 
 ###
 
-<p align="left">I'm Android developer from Nairobi, Kenya<br><br>- 🔭 I’m working as an Android developer best in Kotlin(Jetpack Compose) and Flutter (dart)<br>- 📚 I'm currently learning Machine Learning<br>- ⚡ In my free time I take a walk,listen to music</p>
-
+<p align="left">I'm Android developer best in Kotlin(Jetpack Compose) and Flutter <br><br>- 
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
