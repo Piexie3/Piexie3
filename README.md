@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm Android developer best in Kotlin(Jetpack Compose) and Flutter <br><br>- 
+<p align="left">I'm Android developer best in Kotlin(Jetpack Compose) and Flutter <br><br>
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -85,6 +85,5 @@ Flask| - MongoDB| - Php
 </table>
   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piexie3&theme=vision-friendly-dark&count_private=true)](https://github.com/piexie3/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piexie3&theme=vision-friendly-dark&count_private=true)](https://github.com/piexie3/github-readme-stats)
 
