@@ -74,7 +74,7 @@ Flask| - MongoDB| - Php
   
   <tr>
     <td>
-       <img width="400px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=piexie3&theme=vision-friendly-dark&count_private=true"  />
+       <img width="400px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=piexie3&theme=dracula&count_private=true"  />
      </td> 
    </tr>
    
@@ -82,6 +82,5 @@ Flask| - MongoDB| - Php
 </table>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piexie3&theme=onedark&count_private=true)](https://github.com/piexie3/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piexie3&theme=dracula&count_private=true)](https://github.com/piexie3/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piexie3&layout=compact)](https://github.com/piexie3/github-readme-stats)
