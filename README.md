@@ -80,7 +80,8 @@ Flask| - MongoDB| - Php
    
   
 </table>
-  
+
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Emmanuel_dev2)](https://github.com/piexie3/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piexie3&theme=vision-friendly-dark&count_private=true)](https://github.com/piexie3/github-readme-stats)
 
