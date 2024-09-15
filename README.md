@@ -24,7 +24,7 @@
 ###
 
 <p align="left">I'm Android developer best in Kotlin(Jetpack Compose) and Flutter <br><br>
-
+<p align="left">Ready to collaborate with other devs hit me up <br><br>
 
 <h3 align="left">🛠 Language and tools</h3>
 
