@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Bett</h1>
 <h3 align="center">A passionate Android developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piexie3" alt="piexie3" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/emmanuel_dev2" target="blank"><img src="https://img.shields.io/twitter/follow/emmanuel_dev2?logo=twitter&style=for-the-badge" alt="emmanuel_dev2" /></a> </p>
 
 - 🌱 I’m currently learning **java springboot**
 
 - 💬 Ask me about **flutter,kotlin and python**
-
-- 📫 How to reach me **emmanuelbett@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,3 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piexie3&show_icons=true&locale=en&layout=compact" alt="piexie3" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piexie3&show_icons=true&locale=en" alt="piexie3" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piexie3&" alt="piexie3" /></p>
