@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Android developer and a Backend Engineer</h3>
 
 # 💫 About Me:
-🔭 I’m working on Dart and Kotlin for android development and spring boot backend<br><br>🌱 I’m currently learning Kotlin Multi-platform<br><br>👯 I’m looking to collaborate on Any Mobile Application project and solving world challenges<br><br>💬 Ask me about Kotlin , Flutter and Spring<br><br>📫 If you want to reach me email me at  emmanuelbett@proton.me<br>
+🔭 I’m working on Dart and Kotlin for android development and spring boot backend<br><br>🌱 I’m currently learning Kotlin Multi-platform<br><br>👯 I’m looking to collaborate on Any Mobile Application project and solving world challenges<br><br>💬 Ask me about Kotlin , Flutter and Spring<br><br>📫 If you want to reach out, email me at  emmanuelbett@proton.me<br>
 
 
 ## 🌐 Socials:
