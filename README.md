@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Bett</h1>
-<h3 align="center">A passionate Android developer and a Backend Engineer</h3>
+<h3 align="center">An Android developer and a Backend Engineer</h3>
 
 # 💫 About Me:
-🔭 I’m working on Dart and Kotlin for android development and spring boot backend<br><br>🌱 I’m currently learning Kotlin Multi-platform<br><br>👯 I’m looking to collaborate on Any Mobile Application project and solving world challenges<br><br>💬 Ask me about Kotlin , Flutter and Spring<br><br>📫 If you want to reach out, email me at  emmanuelbett@proton.me<br>
+🔭 I’m working on Dart and Kotlin for android development and spring boot/ spring reactive backend<br><br>🌱 I’m currently learning Kotlin Multi-platform<br><br>👯 I’m looking to collaborate on Any Mobile Application project and solving world challenges<br><br>💬 Ask me about Kotlin , Flutter and Spring<br><br>📫 If you want to reach out, email me at  emmanuelbett@proton.me<br>
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-green?logo=instagram&logoColor=white)](https://instagram.com/emmanuel_bett3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuel-bett-418995241)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/emmanuel_dev2) 
+[![Instagram](https://img.shields.io/badge/Instagram-green?logo=instagram&logoColor=white)](https://instagram.com/emmanuel_bett3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuel-bett-418995241)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/itsbettemmanuel) 
 
 # 💻 Tech Stack:
 
